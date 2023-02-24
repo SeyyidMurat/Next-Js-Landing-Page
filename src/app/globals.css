@@ -388,6 +388,7 @@ span {
 .meeting_card_desc-feature {
 	display: flex;
 	margin-bottom: 24px;
+	justify-content: center;
 }
 
 .meeting_card_desc-feature-col {

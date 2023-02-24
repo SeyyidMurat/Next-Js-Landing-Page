@@ -335,7 +335,7 @@ const page = () => {
 							Psikoloğa nasıl <br /> bağlanırım?
 						</div>
 						<div className="what_connect-img">
-							<Image src="/img/what-connect-bg.png" alt="what-connect-img" fill objectFit="contain" />
+							<Image src="/img/bg-3.png" alt="what-connect-img" fill objectFit="contain" />
 							<button className="what_connect-img-btn">
 								<PlayIcon />
 							</button>
